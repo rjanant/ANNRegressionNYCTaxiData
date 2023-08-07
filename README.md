@@ -9,4 +9,4 @@ For this exercise we've whittled the dataset down to just 120,000 records from A
 
 We can use the model to predict the taxi fare by providing the new data records. 
 
-For the test data the on average, predicted values are within ±$3.63 of the actual value.
+For the test data - on average, predicted values are within ±$3.63 of the actual value.
